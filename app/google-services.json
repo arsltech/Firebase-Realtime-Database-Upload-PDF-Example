@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1081930050729",
+    "firebase_url": "https://student-mangement-system.firebaseio.com",
+    "project_id": "student-mangement-system",
+    "storage_bucket": "student-mangement-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081930050729:android:3efda6b520261690",
+        "android_client_info": {
+          "package_name": "com.developer.arsl.uploadpdffirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081930050729-npb0f32c5aks2it1jbueci2j463b7f45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.arsl.uploadpdffirebase",
+            "certificate_hash": "1b7ef2ad9346a423b66689170a17d7886234113c"
+          }
+        },
+        {
+          "client_id": "1081930050729-qstm5k076huid5qa39en2eg7qdli4d6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBr10S4rRCUTgKSVjd5qeSIuKovFPbCws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081930050729-qstm5k076huid5qa39en2eg7qdli4d6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081930050729:android:8687512721a212a5",
+        "android_client_info": {
+          "package_name": "com.technology.arsltech.arsltechtutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081930050729-om6tb5qsnnpojlsa8gm9gi4vpog6a068.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technology.arsltech.arsltechtutorials",
+            "certificate_hash": "1b7ef2ad9346a423b66689170a17d7886234113c"
+          }
+        },
+        {
+          "client_id": "1081930050729-qstm5k076huid5qa39en2eg7qdli4d6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBr10S4rRCUTgKSVjd5qeSIuKovFPbCws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081930050729-qstm5k076huid5qa39en2eg7qdli4d6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
